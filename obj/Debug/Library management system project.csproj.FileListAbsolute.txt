@@ -1,7 +1,0 @@
-D:\My Codes\C#\Library management system project\obj\Debug\Library management system project.csproj.AssemblyReference.cache
-D:\My Codes\C#\Library management system project\obj\Debug\Library management system project.csproj.CoreCompileInputs.cache
-D:\My Codes\C#\Library management system project\bin\Debug\Library management system project.exe.config
-D:\My Codes\C#\Library management system project\bin\Debug\Library management system project.exe
-D:\My Codes\C#\Library management system project\bin\Debug\Library management system project.pdb
-D:\My Codes\C#\Library management system project\obj\Debug\Library management system project.exe
-D:\My Codes\C#\Library management system project\obj\Debug\Library management system project.pdb
